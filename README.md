@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-I'm a cybersecurity expert with **5+ years of hands-on experience** in cyber defense, offensive security, and professional training. I’ve empowered **2000+ learners**, trained members of the **Indian Army & BSF**, and contributed to the creation of India’s **first cybersecurity school program** with **IIT Jodhpur**. My career is focused on blending red-team techniques, educational outreach, and real-world threat simulation.
+I'm a cybersecurity expert with 7+ years of hands-on experience in cyber defense, offensive security, and professional training. I’ve empowered 10,000+ learners, trained members of the Indian Army & BSF, and contributed to the creation of India’s first cybersecurity school program with IIT Jodhpur. My career is focused on blending red-team techniques, educational outreach, and real-world threat simulation.
 
 ---
 
@@ -74,7 +74,7 @@ I'm a cybersecurity expert with **5+ years of hands-on experience** in cyber def
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Anubhav%20Choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubbhav)](https://www.linkedin.com/in/anubbhav)  
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CyberSecurityUP)](https://github.com/CyberSecurityUP)  
-[![Twitter Badge](https://img.shields.io/badge/-@C0d3Cr4zy-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/C0d3Cr4zy)](https://twitter.com/C0d3Cr4zy)
+[![Twitter Badge](https://img.shields.io/badge/-@C0d3Cr4zy-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/reconoob)](https://x.com/reconoob)
 
 ---
 
