@@ -63,8 +63,8 @@ I'm a cybersecurity expert with **5+ years of hands-on experience** in cyber def
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurityUP&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MimeChoudhary&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MimeChoudhary&theme=tokyonight" />
 </p>
 
 ---
