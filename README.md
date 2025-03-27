@@ -15,16 +15,24 @@ I'm a cybersecurity expert with 7+ years of hands-on experience in cyber defense
 
 ### 👨‍🏫 What I Do
 
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGMxcHMxeDZodXM2aGkxZ2syem0ybDQ3anloNnhkNzhuNWRiNzNiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="280"/>
-
-
-- 👨‍💻 **Cyber Security Consultant** at WhizHack Technologies (2021–Present)
-- 🛠️ Created cybersecurity courses for **IIT Jodhpur**, **NPTI**, and various institutions
-- 🎓 Delivered workshops at **Lovely Professional University**, **Avvire Hub**, and more
-- 🔬 Simulated attack/defense scenarios for CTFs and hackathons
-- 🧠 Curriculum designer and mentor in InfoSec
-
+<table>
+<tr>
+<td width="60%">
+  
+- 👨‍💻 **Cyber Security Consultant** at WhizHack Technologies (2021–Present)  
+- 🛠️ Created cybersecurity courses for **IIT Jodhpur**, **NPTI**, and various institutions  
+- 🎓 Delivered workshops at **Lovely Professional University**, **Avvire Hub**, and more  
+- 🔬 Simulated attack/defense scenarios for CTFs and hackathons  
+- 🧠 Curriculum designer and mentor in InfoSec  
+  
+</td>
+<td align="center">
+  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGMxcHMxeDZodXM2aGkxZ2syem0ybDQ3anloNnhkNzhuNWRiNzNiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="250"/>
+  
+</td>
+</tr>
+</table>
 ---
 
 ### 🧰 Tech Stack & Tools
