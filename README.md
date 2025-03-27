@@ -33,6 +33,7 @@ I'm a cybersecurity expert with 7+ years of hands-on experience in cyber defense
 </td>
 </tr>
 </table>
+
 ---
 
 ### 🧰 Tech Stack & Tools
