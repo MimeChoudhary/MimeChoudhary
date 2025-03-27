@@ -1,9 +1,6 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF700&random=true&width=435&lines=Red+Team+Professional;SOC+Analyst;Web+Security+Analyst)](https://git.io/typing-svg)
-
 ## 👋 Hi there, I'm Mr Mime
 
-### 🛡️ Cybersecurity Expert | Red Team Enthusiast | Security Trainer | Speaker | Curriculum Designer | Advocate for Cyber Awareness
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF700&random=true&width=435&lines=Red+Team+Professional;SOC+Analyst;Cybersecurity+Expert;Security+Trainer;Advocate+for+Cyber+Awareness)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="280"/>
