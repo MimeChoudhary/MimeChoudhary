@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mr Mime
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF700&random=true&width=435&lines=Red+Team+Professional;SOC+Analyst;Cybersecurity+Expert;Security+Trainer;Advocate+for+Cyber+Awareness)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2CF700&random=true&width=435&lines=Red+Team+Professional;SOC+Analyst;Cybersecurity+Expert;Security+Trainer;Advocate+for+Cyber+Awareness)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="280"/>
 
