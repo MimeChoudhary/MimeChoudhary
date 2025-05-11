@@ -20,8 +20,8 @@ I'm a cybersecurity expert with 7+ years of hands-on experience in cyber defense
   
 - 👨‍💻 **Cyber Security Consultant** at WhizHack Technologies (2021–Present)  
 - 🛠️ Created cybersecurity courses for **IIT Jodhpur**, **NPTI**, and various institutions  
-- 🎓 Delivered workshops at **Lovely Professional University**, **Avvire Hub**, and more  
-- 🔬 Simulated attack/defense scenarios for CTFs and hackathons  
+- 🎓 Delivered workshops at **IIT Madras**, **IIT Delhi**, **Lovely Professional University** and more  
+- 🔬 Simulated attack/defense scenarios for **Indian Army** and hackathons  
 - 🧠 Curriculum designer and mentor in InfoSec  
   
 </td>
